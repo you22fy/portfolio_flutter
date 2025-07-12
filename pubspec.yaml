@@ -8,11 +8,14 @@ environment:
 
 dependencies:
   cached_network_image: ^3.4.1
+  dio: ^5.8.0+1
+  envied: ^1.1.1
   flutter:
     sdk: flutter
   font_awesome_flutter: ^10.8.0
   google_fonts: ^6.2.1
   intl: ^0.20.2
+  provider: ^6.1.5
   url_launcher: ^6.3.1
 
 dev_dependencies:
@@ -21,6 +24,7 @@ dev_dependencies:
   flutter_lints: ^5.0.0
   build_runner: ^2.4.15
   flutter_gen_runner:
+  envied_generator: ^1.1.1
 
 
 flutter:
@@ -28,3 +32,4 @@ flutter:
 
   assets:
     - assets/images/
+    - assets/json/

@@ -88,10 +88,6 @@ class _ProfileSectionState extends State<ProfileSection> {
                     style: theme.textTheme.bodySmall,
                   ),
                   Text(
-                    '学部1年次から複数の長期インターンに参加しアプリ開発やコミュニティ運営に携わる。',
-                    style: theme.textTheme.bodySmall,
-                  ),
-                  Text(
                     '趣味はお酒・ギター・散歩・プログラミング。',
                     style: theme.textTheme.bodySmall,
                   ),

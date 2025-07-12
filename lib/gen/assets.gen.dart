@@ -23,10 +23,21 @@ class $AssetsImagesGen {
   List<AssetGenImage> get values => [iconCharacter, iconMe];
 }
 
+class $AssetsJsonGen {
+  const $AssetsJsonGen();
+
+  /// File path: assets/json/data.json
+  String get data => 'assets/json/data.json';
+
+  /// List of all assets
+  List<String> get values => [data];
+}
+
 class Assets {
   const Assets._();
 
   static const $AssetsImagesGen images = $AssetsImagesGen();
+  static const $AssetsJsonGen json = $AssetsJsonGen();
 }
 
 class AssetGenImage {
