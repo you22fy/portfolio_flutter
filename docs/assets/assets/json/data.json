@@ -1,0 +1,146 @@
+{
+    "qualifications": [
+        {
+            "name": "応用情報技術者試験（AP)",
+            "date": "2024/12"
+        },
+        {
+            "name": "TOEIC LIstening and Reading 815点",
+            "date": "2024/12"
+        },
+        {
+            "name": "情報セキュリティマネジメント試験（SG)",
+            "date": "2024/10"
+        },
+        {
+            "name": "基本情報技術者試験（FE）",
+            "date": "2024/4"
+        },
+        {
+            "name": "TOEIC LIstening and Reading 795点",
+            "date": "2024/2"
+        },
+        {
+            "name": "TOEIC LIstening and Reading 760点",
+            "date": "2023/11"
+        },
+        {
+            "name": "令和4年度福岡大学特待生表彰",
+            "date": "2022/06"
+        },
+        {
+            "name": "TOEIC LIstening and Reading 805点",
+            "date": "2022/02"
+        },
+        {
+            "name": "TOEIC LIstening and Reading 820点",
+            "date": "2021/12"
+        },
+        {
+            "name": "TOEIC LIstening and Reading 815点",
+            "date": "2021/09"
+        },
+        {
+            "name": "TOEIC LIstening and Reading 750点",
+            "date": "2021/06"
+        },
+        {
+            "name": "実用英語技能検定２級",
+            "date": "2019/01"
+        },
+        {
+            "name": "実用英語技能検定準２級",
+            "date": "2018/11"
+        },
+        {
+            "name": "実用英語技能検定３級",
+            "date": "2017/11"
+        },
+        {
+            "name": "実用英語技能検定４級",
+            "date": "2017/10"
+        }
+    ],
+    "researches": [
+        {
+            "title": "A Table Search Method for Securities Reports Based on Binary Classification Using Re-rank Filters",
+            "date": "2025/07",
+            "paper": "",
+            "poster": "",
+            "slide": "",
+            "additional": "",
+            "is_review": true
+        },
+        {
+            "title": "FUSINT at the NTCIR-18 U4 Task ",
+            "date": "2025/06",
+            "paper": "https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings18/pdf/ntcir/06-NTCIR18-U4-FujitaY.pdf",
+            "poster": "https://research.nii.ac.jp/ntcir/workshop/OnlineProceedings18/pdf/posters/06-NTCIR18-U4-FujitaY.pdf",
+            "slide": "",
+            "additional": "",
+            "is_review": false
+        },
+        {
+            "title": "二値分類モデルに基づく有価証券報告書を対象とした表解析手法の提案",
+            "date": "2025/03",
+            "paper": "https://www.jstage.jst.go.jp/article/jsaisigtwo/2025/FIN-034/2025_20/_article/-char/ja",
+            "poster": "",
+            "slide": "",
+            "additional": "",
+            "is_review": false
+        },
+        {
+            "title": "二値分類モデルに基づく有価証券報告書を対象とした表解析手法の提案(卒業論文)",
+            "date": "2025/01",
+            "paper": "",
+            "poster": "",
+            "slide": "",
+            "additional": "",
+            "is_review": false
+        }
+    ],
+    "academic_background": [
+        {
+            "name": "福岡大学大学院 工学研究科 電子情報工学専攻 博士課程前期",
+            "from": "2025/04",
+            "to": ""
+        },
+        {
+            "name": "福岡大学 工学部 電子情報工学科",
+            "from": "2021/04",
+            "to": "2025/03"
+        },
+        {
+            "name": "福岡県立筑紫中央高等学校 普通科",
+            "from": "2018/04",
+            "to": "2021/03"
+        }
+    ],
+    "work_history": [
+        {
+            "name": "OSHIAI株式会社 エンジニア長期インターンシップ",
+            "description": "FLutterによるモバイルアプリケーションの開発・運営インターンシップ",
+            "from": "2024/04",
+            "to": ""
+        },
+        {
+            "name": "株式会社Sally エンジニア長期インターンシップ",
+            "description": "機能開発エンジニアとしてモバイル・サーバーサイド開発のインターンシップ",
+            "from": "2023/01",
+            "to": "2025/02"
+        },
+        {
+            "name": "大学生限定プログラミングスクール GeekSalon運営長期インターンシップ",
+            "description": "プログラミング勉強会運営や営業、マーケティング、採用などの組織運営インターンシップ。\n営業チームリーダーや新コース立ち上げ、採用施策チームに所属",
+            "from": "2021/12",
+            "to": "2023/10"
+        },
+        {
+            "name": "個別指導塾１対１ネッツ 講師アルバイト",
+            "description": "主に中高生に英語、古典、数学などの科目を指導",
+            "from": "2021/04",
+            "to": "2022/03"
+        }
+    ],
+    "works": []
+}
